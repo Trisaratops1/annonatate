@@ -1,0 +1,37 @@
+---
+canvas: "https://www.artic.edu/iiif/2/4d6710aa-0f29-c492-5cd7-498bca9cf627"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Rabbit 1",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Trisaratops1",
+                "name": "Trisaratops1"
+            },
+            "created": "2024-06-05T16:53:03.123Z",
+            "modified": "2024-06-05T16:53:04.325Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://api.artic.edu/api/v1/artworks/23321/manifest.json ",
+                "type": "Manifest"
+            },
+            "id": "https://www.artic.edu/iiif/2/4d6710aa-0f29-c492-5cd7-498bca9cf627",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"341.231990814209\" cy=\"1864.8112182617188\" rx=\"224.65204238891602\" ry=\"359.84088134765625\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "5e0ee070-e69f-49bc-9240-b8ec1eb1bd84.json",
+    "motivation": "commenting"
+}
