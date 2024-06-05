@@ -1,4 +1,10 @@
 images:
+- added: '2024-06-05 16:48:10.579160'
+  iiif: true
+  thumbnail: ''
+  title: ''
+  url: 'https://api.artic.edu/api/v1/artworks/60126/manifest.json '
+  user: Trisaratops1
 - added: '2024-06-05 16:47:51.131260'
   iiif: true
   thumbnail: ''
