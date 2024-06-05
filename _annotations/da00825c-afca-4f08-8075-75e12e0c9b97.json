@@ -1,0 +1,38 @@
+---
+canvas: "https://www.artic.edu/iiif/2/4d6710aa-0f29-c492-5cd7-498bca9cf627"
+order: 4
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Moon against a pale red and grey background of clouds",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Trisaratops1",
+                "name": "Trisaratops1"
+            },
+            "created": "2024-06-05T16:53:29.507Z",
+            "modified": "2024-06-05T16:53:50.171Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://api.artic.edu/api/v1/artworks/23321/manifest.json ",
+                "type": "Manifest"
+            },
+            "id": "https://www.artic.edu/iiif/2/4d6710aa-0f29-c492-5cd7-498bca9cf627",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=72.84212493896484,379.7217712402344,337.97229766845703,270.3776550292969"
+        }
+    },
+    "id": "da00825c-afca-4f08-8075-75e12e0c9b97.json",
+    "motivation": "commenting"
+}
