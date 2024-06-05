@@ -1,0 +1,38 @@
+---
+canvas: "https://www.artic.edu/iiif/2/4d6710aa-0f29-c492-5cd7-498bca9cf627"
+order: 1
+---
+{
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Morning glory flower",
+            "purpose": "commenting",
+            "creator": {
+                "id": "Trisaratops1",
+                "name": "Trisaratops1"
+            },
+            "created": "2024-06-05T16:52:44.930Z",
+            "modified": "2024-06-05T16:52:47.262Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://api.artic.edu/api/v1/artworks/23321/manifest.json ",
+                "type": "Manifest"
+            },
+            "id": "https://www.artic.edu/iiif/2/4d6710aa-0f29-c492-5cd7-498bca9cf627",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=172.24583435058594,733.5984497070312,373.75758361816406,568.5886840820312"
+        }
+    },
+    "id": "98efe74e-bccb-4301-a171-ae974fbe7b25.json",
+    "motivation": "commenting"
+}
